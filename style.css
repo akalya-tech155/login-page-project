@@ -38,3 +38,15 @@ button:hover {
 #message {
   margin-top: 10px;
 }
+
+
+
+
+
+/* added new css information */
+
+@media (max-width: 600px) {
+  input {
+    width: 100%;
+  }
+}
