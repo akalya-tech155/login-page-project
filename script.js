@@ -11,3 +11,10 @@ function login() {
     msg.style.color = "green";
   }
 }
+
+
+/*   added more information */
+
+function validate() {
+  alert("Form submitted!");
+}
